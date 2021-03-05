@@ -1,0 +1,2 @@
+*Italic*
+__Bold__
